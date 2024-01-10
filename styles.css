@@ -86,14 +86,16 @@ a:link {
     margin-right: auto;
     width: 50%;
   }
-  
+
   header {
     font-size: 24px;
+    color: rgb(210, 214, 221);
+    background-color:blue
   {
 
   footer {
-    background-color: #060555;
-    color: white;
+    background-color:blue
+    color:aliceblue;
     text-align: center;
     padding: 10px;
   }
