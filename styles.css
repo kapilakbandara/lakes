@@ -1,0 +1,49 @@
+body
+{
+    background-color: white;
+}
+
+h1
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 36px;
+    color: rgb(87, 50, 187);
+}
+
+p
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgb(9, 9, 10);
+}
+h2
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 36px;
+    color: rgb(87, 50, 187);
+}
+
+a:link {
+    color: rgb(17, 0, 255);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: rgb(239, 94, 118);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: green;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
