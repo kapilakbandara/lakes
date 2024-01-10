@@ -44,11 +44,6 @@ h5
     color: rgb(70, 6, 173);
 }
 
-
-
-
-
-
 a:link {
     color: rgb(17, 0, 255);
     background-color: transparent;
@@ -90,4 +85,15 @@ a:link {
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+  }
+  
+  header {
+    font-size: 24px;
+  {
+
+  footer {
+    background-color: #060555;
+    color: white;
+    text-align: center;
+    padding: 10px;
   }
